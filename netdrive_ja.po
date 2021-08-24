@@ -10,47 +10,47 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "ドライブの追加"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "ストレージの種類"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "接続"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "オプション"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "認証情報を保存"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "リモートパス"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "ブラウズ"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "ラベル"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "マウント"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
@@ -60,57 +60,57 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "自動接続オプション"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "自動マウントしない"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "起動時にマウント"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "ログイン時にマウント"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "アップロードオプション"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "エクスプローラーでオンザフライアップロード"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "バックグラウンドアップロードを使用する"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "読み取り専用オプション"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "書き込み可能ドライブ"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "読み取り専用ドライブ"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "詳細オプション"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
@@ -120,7 +120,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "リムーバブルドライブ"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
@@ -135,17 +135,17 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "色"
 
 #: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "ネットワークドライブ"
 
 #: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "ローカルドライブ"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
